@@ -18,7 +18,7 @@ To discover Bluetooth devices that can be connected to:
     loop.run_until_complete(run())
 
 
-Connect to a Bluetooth device and read it's model number:
+Connect to a Bluetooth device and read its model number:
 
 .. code-block:: python
 
